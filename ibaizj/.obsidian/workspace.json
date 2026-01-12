@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "211e212021c93090",
+        "id": "81935bef2ebac701",
         "type": "tabs",
         "children": [
           {
-            "id": "e84b0fddcc212c66",
+            "id": "24ee280a8aca0878",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -179,13 +177,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "7f42e8d19152d5c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
+    "width": 491.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,15 +207,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e84b0fddcc212c66",
+  "active": "24ee280a8aca0878",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
-    "Untitled.base",
-    "2026-01-12.md",
     "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
+    "2026-01-12.md",
     "Excalidraw",
     "Welcome.md"
   ]
