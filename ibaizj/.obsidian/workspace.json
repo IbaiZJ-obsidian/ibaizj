@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81935bef2ebac701",
+        "id": "a5072e2b71993763",
         "type": "tabs",
         "children": [
           {
-            "id": "24ee280a8aca0878",
+            "id": "967d90fa1b78dece",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -211,10 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24ee280a8aca0878",
+  "active": "967d90fa1b78dece",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "Untitled.base",
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
     "2026-01-12.md",
     "Excalidraw",
