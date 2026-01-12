@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d48cba2bf33d03a",
+        "id": "211e212021c93090",
         "type": "tabs",
         "children": [
           {
-            "id": "28e8d189e76aa923",
+            "id": "e84b0fddcc212c66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-01-12.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-12"
+              "title": "New tab"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-01-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-12"
+              "title": "Outline"
             }
           },
           {
@@ -203,14 +198,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28e8d189e76aa923",
+  "active": "e84b0fddcc212c66",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
-    "2026-01-12.md",
+    "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
     "Untitled.base",
+    "2026-01-12.md",
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "Excalidraw",
     "Welcome.md"
   ]
