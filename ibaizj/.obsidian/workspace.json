@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5499db01dc99df88",
+        "id": "b0b93944f1041318",
         "type": "tabs",
         "children": [
           {
-            "id": "b869c9b9600894cb",
+            "id": "fc03e2d56ce422c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "89b24658376a135f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6769c15d1dcd4b32",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
             }
           }
         ]
@@ -208,11 +190,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b869c9b9600894cb",
+  "active": "fc03e2d56ce422c1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
+    "Excalidraw",
     "Welcome.md"
   ]
 }
