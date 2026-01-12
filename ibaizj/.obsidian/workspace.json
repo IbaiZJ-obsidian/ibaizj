@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b93944f1041318",
+        "id": "8d48cba2bf33d03a",
         "type": "tabs",
         "children": [
           {
-            "id": "fc03e2d56ce422c1",
+            "id": "28e8d189e76aa923",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
+                "file": "2026-01-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-01-12"
             }
           }
         ]
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "2026-01-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2026-01-12"
             }
           },
           {
@@ -172,14 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "07fad6a7ba0c9cbe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc03e2d56ce422c1",
+  "active": "28e8d189e76aa923",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
+    "2026-01-12.md",
+    "Untitled.base",
     "Excalidraw",
     "Welcome.md"
   ]
