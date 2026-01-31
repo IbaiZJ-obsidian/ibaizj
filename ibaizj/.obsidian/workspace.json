@@ -11,10 +11,12 @@
             "id": "20315910f4d022e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
             }
           }
         ]
@@ -211,7 +213,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20315910f4d022e1",
+  "active": "840811633a505f0c",
   "lastOpenFiles": [
     "2026-01-12.md",
     "Untitled.base",
