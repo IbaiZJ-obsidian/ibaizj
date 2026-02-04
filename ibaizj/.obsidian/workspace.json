@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4e4e03d7b4f43a4f",
+        "id": "3ae33e68e31a57f0",
         "type": "tabs",
         "children": [
           {
-            "id": "20315910f4d022e1",
+            "id": "69de98db55d0e288",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
+                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
-            }
-          },
-          {
-            "id": "b67a81c649c146d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
-            }
-          },
-          {
-            "id": "00a9fdcbcaf88b03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "Debian"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "right": {
     "id": "880b9cbe46f60cc8",
@@ -117,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Debian"
             }
           },
           {
@@ -135,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Debian"
             }
           },
           {
@@ -177,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Debian"
             }
           },
           {
@@ -238,11 +218,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59845344607128f8",
+  "active": "785f8b58ffd3052a",
   "lastOpenFiles": [
+    "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
+    "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/Istalakuntza",
+    "DATUEN INGENIARITZA/Untitled.canvas",
     "2026-01-12.md",
-    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.restored.md",
+    "DATUEN INGENIARITZA",
+    "Excalidraw/Drawing 2026-02-04 12.16.08.excalidraw.md",
     "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.restored.md",
     "Untitled.base",
     "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
     "Excalidraw",
