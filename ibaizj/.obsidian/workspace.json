@@ -18,8 +18,33 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-12 22.19.03.excalidraw"
             }
+          },
+          {
+            "id": "b67a81c649c146d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-12 22.19.03.excalidraw"
+            }
+          },
+          {
+            "id": "00a9fdcbcaf88b03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,11 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "840811633a505f0c",
+  "active": "7b82ec7298b45ce7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.restored.md",
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "2026-01-12.md",
     "Untitled.base",
-    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
     "Excalidraw",
     "Welcome.md"
