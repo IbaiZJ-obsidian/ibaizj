@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debian"
+              "title": "Proxmox"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Debian"
+              "title": "Backlinks for Proxmox"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Debian"
+              "title": "Outgoing links from Proxmox"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Debian"
+              "title": "Outline of Proxmox"
             }
           },
           {
@@ -196,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +217,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "69de98db55d0e288",
   "lastOpenFiles": [
+    "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
+    "DATUEN INGENIARITZA/Diagramak",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
-    "DATUEN INGENIARITZA/Istalakuntza/Debian.md",
-    "DATUEN INGENIARITZA/Istalakuntza",
+    "DATUEN INGENIARITZA/1. Istalakuntza",
     "DATUEN INGENIARITZA/Untitled.canvas",
     "2026-01-12.md",
     "DATUEN INGENIARITZA",
