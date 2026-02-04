@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64354b85fd2bc78e",
+        "id": "f0f3d1afb548b1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "806fb9f14e9e304d",
+            "id": "e8bbb5679c566ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Debian"
             }
           }
         ]
@@ -193,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49f7cb179119fcbd",
+  "active": "e8bbb5679c566ca1",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "Untitled.canvas",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "Untitled.base",
