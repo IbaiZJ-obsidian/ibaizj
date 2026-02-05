@@ -1,4 +1,4 @@
 
 ```
-systemctl status 
+systemctl status sshd
 ```
