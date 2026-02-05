@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+                "file": "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debian"
+              "title": "Port Forwarding"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "SSH"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +207,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,12 +228,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d01af977dfd784a",
+  "active": "f05fc21d5074e8af",
   "lastOpenFiles": [
     "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
-    "DATUEN INGENIARITZA/0. Linux",
+    "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
+    "DATUEN INGENIARITZA/0. Linux",
     "Untitled.canvas",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
