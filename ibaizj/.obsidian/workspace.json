@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+                "file": "DATUEN INGENIARITZA/0. Linux/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox"
+              "title": "SSH"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "active": "9bc037c6b5e141a1",
   "lastOpenFiles": [
+    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
@@ -224,7 +225,6 @@
     "DATUEN INGENIARITZA/0. Linux",
     "Untitled.canvas",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "Untitled.base",
     "Pasted image 20260204124511.png",
     "DATUEN INGENIARITZA/Irudiak",
