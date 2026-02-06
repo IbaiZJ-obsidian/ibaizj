@@ -45,12 +45,39 @@ provider "proxmox" {
 - Konfigurazio ezberdinak egin
 ```
 # Konfiguratu endpoint-a
-pm_api_url = "http://10.0.2.15:8006/api2/json"
+pm_api_url = "https://10.0.2.15:8006/api2/json"
 
-# 
+# Usuarioa konfiguratu
+pm_user = "root@pam"
+
+# Pasahitza konfiguratu
+pm_password = "Pasaitza123"
+
+# Zertifikatu balidoa ez baduzu = true, bestela = false
+# By default Proxmox Virtual Environment uses self-signed certificates.
+pm_tls_insecure = true
 ```
 
+- Sortu LXC kontenedorea
+```
+resource "proxmox_lxc" "mi_lxc" {
+  hostname       = "lxc-test"
+  ostemplate     = "local:vztmpl/debian-13-standard_13.0-1_amd64.tar.gz"
+  storage        = "local-lvm"
+  cores          = 2
+  memory         = 2048
+  rootfs         = "8G"
+  swap           = 512
+  password       = "ContraseñaSegura123"
 
+  network {
+    name   = "eth0"
+    bridge = "vmbr0"
+    ip     = "192.168.1.100/24"
+	gw     = "192.168.1.1"
+	}
+}
+```
 
 
 
