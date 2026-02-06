@@ -97,3 +97,38 @@ tofu apply
 
 
 
+```
+terraform {
+    required_providers {
+        proxmox = {
+      source = "telmate/proxmox"
+      version = "3.0.2-rc07"
+    }
+  }
+}
+
+provider "proxmox" {
+    pm_api_url = "https://10.0.2.15:8006/api2/json"
+    pm_user = "root@pam"
+    pm_password = "Zoo22881"
+    pm_tls_insecure = true
+}
+
+resource "proxmox_lxc" "mi_lxc" {
+    hostname       = "lxc-test"
+    ostemplate     = "local:vztmpl/debian-13-standard_13.0-1_amd64.tar.gz"
+    storage        = "local-lvm"
+    cores          = 2
+    memory         = 2048
+    rootfs         = "8G"
+    swap           = 512
+    password       = "Zoo228811"
+
+    network {
+        name   = "eth0"
+        bridge = "vmbr0"
+        ip     = "10.0.2.16/24"
+        gw     = "10.0.2.2"
+    }
+}
+```
