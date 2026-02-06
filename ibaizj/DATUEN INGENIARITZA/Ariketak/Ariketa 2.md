@@ -7,6 +7,38 @@
 
 ## 1.2. Proxmox kudeatu dezan konfiguratu
 
+```
+https://search.opentofu.org/provider/telmate/proxmox/latest
+```
+
+- Sortu direktorio bat
+```
+mkdir -p ~/OpenTofu/proxmox-lxc
+cd ~/OpenTofu/proxmox-lxc
+```
+
+- Terraform artxibo bat sortu
+```
+touch main.tf
+```
+
+- Terraform provider-a konfiguratu
+
+```
+terraform {
+  required_providers {
+    proxmox = {
+      source = "telmate/proxmox"
+      version = "3.0.2-rc07"
+    }
+  }
+}
+```
+
+
+
+
+
 
 
 
