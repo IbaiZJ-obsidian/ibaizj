@@ -17,4 +17,8 @@ Remove line
 Ctrl + K
 ```
 
+```
+Ctrl + Z
 
+Alt + U
+```

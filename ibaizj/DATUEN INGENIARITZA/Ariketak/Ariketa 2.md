@@ -42,6 +42,13 @@ provider "proxmox" {
 }
 ```
 
+- Konfigurazio ezberdinak egin
+```
+# Konfiguratu endpoint-a
+pm_api_url = "http://10.0.2.15:8006/api2/json"
+
+# 
+```
 
 
 
