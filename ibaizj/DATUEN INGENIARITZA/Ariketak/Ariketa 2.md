@@ -45,7 +45,7 @@ provider "proxmox" {
 - Konfigurazio ezberdinak egin
 ```
 # Konfiguratu endpoint-a
-pm_api_url = "https://10.0.2.15:8006/api2/json"
+pm_api_url = "https://10.0.2.10:8006/api2/json"
 
 # Usuarioa konfiguratu
 pm_user = "root@pam"
