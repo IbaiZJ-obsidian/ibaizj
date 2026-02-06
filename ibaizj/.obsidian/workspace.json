@@ -11,12 +11,14 @@
             "id": "9bc037c6b5e141a1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md"
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "sistemaDiagrama.excalidraw"
+              "icon": "lucide-file",
+              "title": "OpenTofu"
             }
           }
         ]
@@ -214,16 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "9bc037c6b5e141a1",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Untitled",
-    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
+    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
+    "DATUEN INGENIARITZA/Untitled",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094813_035.png",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
-    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
