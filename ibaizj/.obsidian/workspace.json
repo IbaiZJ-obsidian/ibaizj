@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenTofu"
+              "title": "Ariketa 2"
             }
           }
         ]
@@ -218,8 +218,12 @@
   },
   "active": "001a36b6aa549d48",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/Pdf-ak/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
+    "DATUEN INGENIARITZA/Pdf-ak/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
+    "DATUEN INGENIARITZA/Pdf-ak/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
+    "DATUEN INGENIARITZA/Pdf-ak",
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/Ariketak",
     "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
@@ -243,12 +247,10 @@
     "DATUEN INGENIARITZA/1. Istalakuntza",
     "DATUEN INGENIARITZA/Untitled.canvas",
     "2026-01-12.md",
-    "DATUEN INGENIARITZA",
     "Excalidraw/Drawing 2026-02-04 12.16.08.excalidraw.md",
     "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md",
     "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-01-12 22.52.07.excalidraw.md",
-    "Excalidraw",
     "Welcome.md"
   ]
 }
