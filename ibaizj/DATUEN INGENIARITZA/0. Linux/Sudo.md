@@ -15,4 +15,4 @@ usermod -aG sudo ibai
 ```
 groups ibai
 ```
-ibai : ibai cdrom floppy sudo audio dip video plugdev users netdev bluetooth
+ibai : ibai cdrom floppy **sudo** audio dip video plugdev users netdev bluetooth
