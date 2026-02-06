@@ -35,6 +35,13 @@ terraform {
 }
 ```
 
+- Gehitu proxmox provider-a
+```
+provider "proxmox" {
+	
+}
+```
+
 
 
 
