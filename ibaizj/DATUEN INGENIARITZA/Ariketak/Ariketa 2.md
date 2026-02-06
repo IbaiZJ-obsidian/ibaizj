@@ -132,3 +132,12 @@ resource "proxmox_lxc" "mi_lxc" {
     }
 }
 ```
+
+```
+ls -lh /var/lib/vz/template/cache/
+```
+
+```
+pveam available
+```
+
