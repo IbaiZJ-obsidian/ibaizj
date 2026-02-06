@@ -68,19 +68,32 @@ resource "proxmox_lxc" "mi_lxc" {
   memory         = 2048
   rootfs         = "8G"
   swap           = 512
-  password       = "ContraseñaSegura123"
+  password       = "Pasaitza123"
 
-  network {
-    name   = "eth0"
-    bridge = "vmbr0"
-    ip     = "192.168.1.100/24"
-	gw     = "192.168.1.1"
-	}
+    network {
+        name   = "eth0"
+        bridge = "vmbr0"
+        ip     = "10.0.2.15/24"
+        gw     = "10.0.2.2"
+    }
 }
 ```
 
+```
+# Inicializa OpenTofu en este proyecto
+tofu init
 
+# Descarga los providers necesarios
+tofu providers install
+```
 
+```
+tofu plan
+```
+
+```
+tofu apply
+```
 
 
 
