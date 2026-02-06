@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8adc75e5e5857207",
+        "id": "5ed4d65736696ecf",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc037c6b5e141a1",
+            "id": "001a36b6aa549d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,12 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bc037c6b5e141a1",
+  "active": "001a36b6aa549d48",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/Untitled",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
