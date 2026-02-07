@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "d0905813ef045dd9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "sistemaDiagrama.excalidraw"
-            }
-          },
-          {
             "id": "ae3807621e8c1b54",
             "type": "leaf",
             "state": {
@@ -47,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "Nano"
+            }
+          },
+          {
+            "id": "85f3fe7e534f1918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ariketa 2"
             }
           }
         ],
@@ -245,16 +247,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae3807621e8c1b54",
+  "active": "85f3fe7e534f1918",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
-    "DATUEN INGENIARITZA/Pdf-ak/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
-    "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
+    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
+    "DATUEN INGENIARITZA/Pdf-ak/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
     "DATUEN INGENIARITZA/Pdf-ak/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
     "DATUEN INGENIARITZA/Pdf-ak/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
+    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/Pdf-ak",
     "DATUEN INGENIARITZA/Ariketak",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
@@ -262,7 +266,6 @@
     "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094813_035.png",
-    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
