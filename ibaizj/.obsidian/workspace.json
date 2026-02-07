@@ -39,12 +39,14 @@
             "id": "ae3807621e8c1b54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "OpenTofu"
             }
           }
         ],
@@ -243,7 +245,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5cd244c45f80cfb",
+  "active": "ae3807621e8c1b54",
   "lastOpenFiles": [
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
