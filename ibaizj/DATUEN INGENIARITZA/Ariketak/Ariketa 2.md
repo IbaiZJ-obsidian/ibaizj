@@ -3,26 +3,28 @@
 
 # 1. Opentofu
 ## 1.1.  Instalatu OpenTofu
+
 [[OpenTofu#Install OpenTofu|Ikusi instalazioaren pausoak]]
 
 ## 1.2. Proxmox kudeatu dezan konfiguratu
 
+- Dokumentazio web-orria
 ```
 https://search.opentofu.org/provider/telmate/proxmox/latest
 ```
 
-- Sortu direktorio bat
+- Sortu direktorio bat OpenTofuko proxmoxeko konfigurazioak egiteko
 ```
 mkdir -p ~/OpenTofu/proxmox-lxc
 cd ~/OpenTofu/proxmox-lxc
 ```
 
-- Terraform artxibo bat sortu
+- OpenTofurako .tf artxibo bat sortu
 ```
 touch main.tf
 ```
 
-- Terraform provider-a konfiguratu
+- Terraform provider-a konfiguratu main.tf-n
 
 ```
 terraform {
@@ -68,7 +70,7 @@ resource "proxmox_lxc" "mi_lxc" {
   memory         = 2048
   rootfs         = "8G"
   swap           = 512
-  password       = "Pasaitza123"
+  password       = "12345678"
 
     network {
         name   = "eth0"
