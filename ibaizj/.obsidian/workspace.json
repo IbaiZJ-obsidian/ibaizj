@@ -27,12 +27,14 @@
             "id": "928a2ac44ddbbd53",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md"
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "sistemaDiagrama.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ariketa 2"
             }
           }
         ],
@@ -233,9 +235,9 @@
   },
   "active": "928a2ac44ddbbd53",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
     "DATUEN INGENIARITZA/Pdf-ak/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
