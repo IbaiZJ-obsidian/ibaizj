@@ -62,22 +62,30 @@ pm_tls_insecure = true
 
 - Sortu LXC kontenedorea
 ```
-resource "proxmox_lxc" "mi_lxc" {
-  hostname       = "lxc-test"
-  ostemplate     = "local:vztmpl/debian-13-standard_13.0-1_amd64.tar.gz"
-  storage        = "local-lvm"
-  cores          = 2
-  memory         = 2048
-  rootfs         = "8G"
-  swap           = 512
-  password       = "12345678"
+resource "proxmox_lxc" "debian_container" {
+    hostname = "debian-lxc"
+    target_node = "proxmox"
+    ostemplate = "local:vztmpl/debian-13-standard_13.1-2_amd64.tar.zst"
+
+    cores = 2
+    memory = 2048
+    swap = 512
+
+    rootfs {
+        storage = "local-lvm"
+        size = "8G"
+    }
 
     network {
-        name   = "eth0"
+        name = "eth0"
         bridge = "vmbr0"
-        ip     = "10.0.2.15/24"
-        gw     = "10.0.2.2"
+        ip = "dhcp"
     }
+
+    password = "12345678"
+    unprivileged = true
+    onboot = true
+    start = true
 }
 ```
 

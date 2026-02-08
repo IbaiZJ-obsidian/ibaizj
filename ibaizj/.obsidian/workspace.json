@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "928a2ac44ddbbd53",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
