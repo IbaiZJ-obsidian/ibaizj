@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2de9fbb7a54c8040",
+            "id": "c668a4d9acafcca6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Ariketa 2"
+              "title": "Ariketa 1"
             }
           },
           {
-            "id": "928a2ac44ddbbd53",
+            "id": "1ada80bbe45f08ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
-                "mode": "preview",
+                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenTofu"
+              "title": "Debian"
             }
           }
         ],
@@ -233,14 +233,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "1ada80bbe45f08ba",
   "lastOpenFiles": [
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
+    "DATUEN INGENIARITZA/Script/debianMakinaSortu.ps1",
+    "DATUEN INGENIARITZA/Script",
+    "DATUEN INGENIARITZA/Scripts/debianMakinaSortu.ps1",
     "DATUEN INGENIARITZA/Scripts/debianCreation.ps1",
     "DATUEN INGENIARITZA/Scripts",
     "DATUEN INGENIARITZA/Nueva carpeta",
-    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
-    "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
@@ -249,20 +255,13 @@
     "DATUEN INGENIARITZA/Pdf-ak/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
     "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/Pdf-ak",
-    "DATUEN INGENIARITZA/Ariketak",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094813_035.png",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
-    "DATUEN INGENIARITZA/0. Linux",
     "Untitled.canvas",
-    "Untitled.base",
     "Pasted image 20260204124511.png",
-    "DATUEN INGENIARITZA/Irudiak",
     "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
     "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
     "DATUEN INGENIARITZA/Untitled.canvas",
