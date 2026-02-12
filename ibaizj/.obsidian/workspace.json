@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "1ada80bbe45f08ba",
+            "id": "9ade75ecc0831a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -233,12 +233,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "9ade75ecc0831a2d",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Irudiak/Pasted image 20260212105457.png",
-    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
+    "DATUEN INGENIARITZA/Irudiak/Pasted image 20260212105457.png",
+    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094813_035.png",
+    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
@@ -250,14 +252,12 @@
     "DATUEN INGENIARITZA/Nueva carpeta",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
-    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094733_226.png",
     "DATUEN INGENIARITZA/Pdf-ak/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
     "DATUEN INGENIARITZA/Pdf-ak/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
     "DATUEN INGENIARITZA/Pdf-ak/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
     "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/Pdf-ak",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
-    "DATUEN INGENIARITZA/Irudiak/Pasted Image 20260205094813_035.png",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",

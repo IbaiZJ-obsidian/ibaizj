@@ -35,3 +35,4 @@ VBoxManage snapshot "debian13" take "Instalazio Aurretik"
 
 - 2 network interfaze badauz, nat sarearen interfazea aukeratu printzipal bezala
 ![[Pasted image 20260212105457.png]]
+
