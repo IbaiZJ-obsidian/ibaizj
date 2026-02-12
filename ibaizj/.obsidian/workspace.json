@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ariketa 1"
+              "title": "Ariketa 2"
             }
           }
         ],
@@ -235,8 +235,8 @@
   },
   "active": "928a2ac44ddbbd53",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
+    "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
