@@ -31,3 +31,7 @@ VBoxManage storageattach "debian13" --storagectl SATA --device 0 --medium "C:\Us
 VBoxManage snapshot "debian13" take "Instalazio Aurretik"
 ```
 
+# Debian Istalakuntza
+
+- 2 network interfaze badauz, nat sarearen interfazea aukeratu printzipal bezala
+![[Pasted image 20260212105457.png]]
