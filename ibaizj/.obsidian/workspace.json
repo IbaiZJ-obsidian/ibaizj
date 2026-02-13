@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+                "file": "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox"
+              "title": "Ariketa 2"
             }
           }
         ],
@@ -233,12 +233,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "ae95c8f3d51a53f3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
     "DATUEN INGENIARITZA/Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak.pdf",
     "DATUEN INGENIARITZA/Pdf/6 Datuen Ingeniaritza - 2.2.4 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Definizioak.pdf",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
-    "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
     "Excalidraw",
     "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
@@ -259,7 +259,6 @@
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
     "DATUEN INGENIARITZA/Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
-    "DATUEN INGENIARITZA/Pdf/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
     "DATUEN INGENIARITZA/0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
