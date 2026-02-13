@@ -233,10 +233,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae95c8f3d51a53f3",
+  "active": "785f8b58ffd3052a",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "DATUEN INGENIARITZA/Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak.pdf",
+    "DATUEN INGENIARITZA/Pdf/6 Datuen Ingeniaritza - 2.2.4 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Definizioak.pdf",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+    "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
+    "Excalidraw",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
     "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 1.md",
     "DATUEN INGENIARITZA/Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
@@ -256,9 +260,7 @@
     "DATUEN INGENIARITZA/0. Linux/Nano.md",
     "DATUEN INGENIARITZA/Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
     "DATUEN INGENIARITZA/Pdf/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
-    "DATUEN INGENIARITZA/Pdf/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
     "DATUEN INGENIARITZA/0. Linux/Sudo.md",
-    "DATUEN INGENIARITZA/Pdf",
     "DATUEN INGENIARITZA/0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/0. Linux/Port Forwarding.md",
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
