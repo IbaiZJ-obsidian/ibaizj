@@ -18,3 +18,10 @@ find /sys/fs/cgroup/ -name cgroup.procs | xargs -I % sh -c 'echo %; cat %'
 ```
 mkdir /sys/fs/cgroup/st
 ```
+
+```
+ls -l /sys/fs/cgroup/st
+```
+
+
+# Ariketa
