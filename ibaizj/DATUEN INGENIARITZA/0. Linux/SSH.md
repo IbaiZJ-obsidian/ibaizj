@@ -10,7 +10,15 @@ ssh-keygen -R "[localhost]:2205"
 
 # SSH egin gako publiko/pribatuarekin
 
+```
+# Windows-ean .ssh karpetara sartu
+cd .ssh
 
+# Sortu gako publiko eta pribatua
+ssh-keygen -f DatuIngenieritza -t rsa
+
+
+```
 # Root usuarioari ssh egiteko pausuak
 ```
 root@debian:~# nano /etc/ssh/sshd_config
