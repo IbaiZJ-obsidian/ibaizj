@@ -5,6 +5,10 @@ ssh user@192.168.1.100 -p 2222
 ```
 
 ```
+ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
+```
+
+```
 ssh-keygen -R "[localhost]:2205"
 ```
 
