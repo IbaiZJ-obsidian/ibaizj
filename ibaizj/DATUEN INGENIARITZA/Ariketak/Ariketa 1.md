@@ -205,3 +205,7 @@ iface enp0s8 inet static
 ```
 nano /usr/lib/sysctl.d/50-router.conf
 ```
+
+```
+net.ipv4.ip_forward = 1
+```

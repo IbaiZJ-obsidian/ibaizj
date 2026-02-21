@@ -8,9 +8,9 @@
 https://opentofu.org/docs/intro/install/deb/
 ```
 
-- Install curl
+- Instalatu curl
 ```
-sudo apt install curl
+apt install curl
 ```
 
 ```
