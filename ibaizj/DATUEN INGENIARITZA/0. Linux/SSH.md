@@ -27,6 +27,9 @@ ssh ibai@localhost -p 2205 "mkdir /home/ibai/.ssh"
 # Kopiatu gakoak zerbitzarian
 scp -P 2205 DatuIngenieritza* ibai@localhost:/home/ibai/.ssh/
 
+# Permisoak aldatu debianeko gako pribatuari
+chmod 600 /home/ibai/.ssh/DatuIngenieritza
+
 # Sartu gakoa authorized_keys barruan
 ssh -p 2205 ibai@localhost "cat /home/ibai/.ssh/DatuIngenieritza.pub >> /home/ibai/.ssh/authorized_keys"
 
