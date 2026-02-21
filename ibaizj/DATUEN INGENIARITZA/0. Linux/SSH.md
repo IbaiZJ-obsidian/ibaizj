@@ -11,7 +11,9 @@ ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
 ```
 ssh-keygen -R "[localhost]:2205"
 ```
-
+```
+ssh-keygen -f '/home/ibai/.ssh/known_hosts' -R '192.168.8.101'
+```
 # SSH gako publiko/pribatuarekin
 
 ```
