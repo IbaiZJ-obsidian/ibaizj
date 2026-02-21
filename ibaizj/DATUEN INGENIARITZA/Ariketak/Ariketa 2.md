@@ -172,3 +172,11 @@ ls -lh /var/lib/vz/template/cache/
 ```
 
 
+```
+apt install ansible -y
+```
+
+```
+ansible --version 
+ansible-playbook --version
+```
