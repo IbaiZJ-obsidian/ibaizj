@@ -35,7 +35,8 @@
               "title": "SSH"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0db296a604ebeaa8",
+  "active": "4ac11e93db6b50fd",
   "lastOpenFiles": [
-    "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "DATUEN INGENIARITZA/Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
+    "DATUEN INGENIARITZA/0. Linux/SSH.md",
     "Untitled.base",
     "SEGURTASUNA/2. Autentifikazioa",
     "DATUEN INGENIARITZA/Ariketak/Ariketa 2.md",
