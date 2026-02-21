@@ -3,3 +3,7 @@ Windowsen debian makinako direktorio bat montatu nahi baduzu, komando honen bide
 ```
 net use Z: \\sshfs.r\root@localhost!2209\root /user:root root
 ```
+
+```
+net use Z: \\sshfs.r\ibai@localhost!2205\home\ibai /user:ibai ibai
+```
