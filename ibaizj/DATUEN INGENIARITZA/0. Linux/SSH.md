@@ -12,7 +12,7 @@ ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
 ssh-keygen -R "[localhost]:2205"
 ```
 
-# SSH egin gako publiko/pribatuarekin
+# SSH gako publiko/pribatuarekin
 
 ```
 # Windows-ean .ssh karpetara sartu
