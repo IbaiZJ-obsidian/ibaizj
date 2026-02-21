@@ -17,7 +17,8 @@ cd .ssh
 # Sortu gako publiko eta pribatua
 ssh-keygen -f DatuIngenieritza -t rsa
 
-
+# Sortu .ssh direktorioa zerbitzarian
+ssh ibai@localhost -p 2205 "mkdir /home/ibai/.ssh"
 ```
 # Root usuarioari ssh egiteko pausuak
 ```
