@@ -36,6 +36,10 @@ ssh -p 2205 ibai@localhost "cat /home/ibai/.ssh/DatuIngenieritza.pub >> /home/ib
 # ssh egin
 ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
 ```
+
+```
+cat ~/.ssh/DatuIngenieritza.pub | pct exec 100 -- tee /root/.ssh/authorized_keys
+```
 # Root usuarioari ssh egiteko pausuak
 
 ```
