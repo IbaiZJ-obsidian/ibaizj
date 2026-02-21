@@ -4,3 +4,6 @@
 
 # Debian makinaren sare konfigurazioa
 
+
+# Proxmox makinaren sare konfigurazioa
+
