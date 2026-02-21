@@ -19,6 +19,15 @@ ssh-keygen -f DatuIngenieritza -t rsa
 
 # Sortu .ssh direktorioa zerbitzarian
 ssh ibai@localhost -p 2205 "mkdir /home/ibai/.ssh"
+
+# Kopiatu gakoak zerbitzarian
+scp -P 2205 DatuIngenieritza* ibai@localhost:/home/ibai/.ssh/
+
+# Sartu gakoa authorized_keys barruan
+ssh -p 2205 ibai@localhost "cat /home/ibai/.ssh/DatuIngenieritza.pub >> /home/ibai/.ssh/authorized_keys"
+
+# ssh egin
+ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
 ```
 # Root usuarioari ssh egiteko pausuak
 ```
