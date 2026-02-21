@@ -34,6 +34,7 @@ ssh -p 2205 ibai@localhost "cat /home/ibai/.ssh/DatuIngenieritza.pub >> /home/ib
 ssh -p 2205 -i C:\Users\iibai\.ssh\DatuIngenieritza ibai@localhost
 ```
 # Root usuarioari ssh egiteko pausuak
+
 ```
 root@debian:~# nano /etc/ssh/sshd_config
 ```
