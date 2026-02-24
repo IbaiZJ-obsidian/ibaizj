@@ -71,6 +71,34 @@ ikerketa:x:1009:ane,jon
 ```
 
 Eman permisoak ikerketa taldeari ikerketa direktorioa exekutatzeko
+```
+root@Segurtasuna:/srv/euskaltech# setfacl -m g:ikerketa:x /srv/euskaltech/ikerketa
+
+root@Segurtasuna:/srv/euskaltech# getfacl ikerketa/
+# file: ikerketa/
+# owner: root
+# group: root
+user::rwx
+group::r-x
+group:ikerketa:--x
+mask::r-x
+other::---
+```
+
+Eman permisoak ikerketa taldeari ikerketa/txostena.txt artxiboa irakurtzeko eta idazteko
+```
+root@Segurtasuna:/srv/euskaltech# setfacl -m g:ikerketa:rw /srv/euskaltech/ikerketa/txostena.txt
+
+root@Segurtasuna:/srv/euskaltech# getfacl ikerketa/txostena.txt
+# file: ikerketa/txostena.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+group:ikerketa:rw-
+mask::rw-
+other::---
+```
 
 ---
 # 3. Ariketa
