@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "02943e2ceb8ccca2",
+    "id": "d1f2fed342557e5e",
     "type": "split",
     "children": [
       {
-        "id": "72d36a0dbeb1ea7f",
+        "id": "42ca1ff4f23f8755",
         "type": "tabs",
         "children": [
           {
-            "id": "4da4cf87442d9ff6",
+            "id": "80a88d1652eef68c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fitxategien sarbide-kontrol zerrendak (ACL)"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f21e4656a7ffb728",
+    "id": "d265bf88369adbbf",
     "type": "split",
     "children": [
       {
-        "id": "2f6d55ca8c09e289",
+        "id": "9fc9c209be8e76cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7caa0229db38800d",
+            "id": "785f8b58ffd3052a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "7608f8ac2e017dd1",
+            "id": "e10c8546d7cec1a1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SSH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "2e370b46b99a0c00",
+            "id": "4901c3a3c03e602d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
-    "id": "92cef9fb543cadad",
+    "id": "880b9cbe46f60cc8",
     "type": "split",
     "children": [
       {
-        "id": "bdda8d6171d20e70",
+        "id": "6694274eb73c9593",
         "type": "tabs",
         "children": [
           {
-            "id": "4d78e9c5ae7f556e",
+            "id": "53e3a69d90b2def3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "117305f7daa79940",
+            "id": "e792f235a1bad006",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "8232ce509e357947",
+            "id": "49f7cb179119fcbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "fccaad400fc36aa9",
+            "id": "3d1d5e6d8b8a3cc0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,25 +145,56 @@
             }
           },
           {
-            "id": "585711b8349653eb",
+            "id": "56c6e45c0d8b6438",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of sistemaDiagrama.excalidraw"
+            }
+          },
+          {
+            "id": "9283e9d4d6a451cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "07fad6a7ba0c9cbe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "7f42e8d19152d5c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 325.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,15 +205,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4da4cf87442d9ff6",
+  "active": "80a88d1652eef68c",
   "lastOpenFiles": [
-    "2. Autentifikazioa/Ariketak",
-    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
-    "2. Autentifikazioa",
-    "1. Tresna kriptografikoak",
-    "Welcome.md"
+    "0. Linux/SSH.md",
+    "0. Linux/Port Forwarding.md",
+    "Ariketak/Ariketa 1.md",
+    "Pdf/9 Datuen Ingeniaritza - 2.3.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 4.pdf",
+    "Pdf/8 Datuen Ingeniaritza - 2.3.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 3.pdf",
+    "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak.pdf",
+    "Pdf/6 Datuen Ingeniaritza - 2.2.4 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Definizioak.pdf",
+    "Pdf/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
+    "Pdf/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
+    "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
+    "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak 1.pdf",
+    "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak 1.pdf",
+    "Pdf/6 Datuen Ingeniaritza - 2.2.4 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Definizioak 1.pdf",
+    "Ariketak/Ariketa 3.md",
+    "00. Windows/Netstat.md",
+    "Ariketak/Ariketa 2.md",
+    "0. Linux/Nano.md",
+    "0. Linux/SSHFS.md",
+    "0. Linux/Systemctl.md",
+    "0. Linux/Sudo.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
+    "Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
+    "SEGURTASUNA/Untitled.md",
+    "Irudiak/Pasted image 20260212105457.png",
+    "Irudiak/Pasted Image 20260205094813_035.png",
+    "Irudiak/Pasted Image 20260205094733_226.png",
+    "debianMakinaSortu.ps1.md",
+    "Diagramak/sistemaDiagrama.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
+    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
+    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
+    "Untitled.canvas",
+    "Pasted image 20260204124511.png",
+    "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
+    "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
+    "DATUEN INGENIARITZA/Untitled.canvas",
+    "2026-01-12.md",
+    "Excalidraw/Drawing 2026-02-04 12.16.08.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-12 22.19.03.excalidraw.md"
   ]
 }
