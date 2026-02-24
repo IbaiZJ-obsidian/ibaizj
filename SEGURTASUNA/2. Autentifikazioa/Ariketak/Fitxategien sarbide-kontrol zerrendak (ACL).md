@@ -43,6 +43,22 @@ other::---
 ---
 **Ikerketa sailean hainbat lagun egon daitezke (Ane barne). Banan-banan baimenak eman beharrean, `ikerlariak` talde osoari emango diogu `txostena.txt` fitxategia irakurtzeko eta idazteko baimena. Horrela, etorkizunean ikerlari berri bat datorrenean, taldean sartzearekin nahikoa izango da.**
 
+Sortu ikerketa taldea
+```
+groupadd ikerketa
+```
+
+Gehitu usuarioak taldera
+```
+usermod -aG ikerketa ane
+usermod -aG ikerketa jon
+```
+```
+cat /etc/group
+
+ikerketa:x:1009:ane,jon
+
+```
 
 ---
 # 3. Ariketa
