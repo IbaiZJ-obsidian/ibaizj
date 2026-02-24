@@ -127,13 +127,34 @@ other::---
 
 **Unai proiektu kudeatzailea da. `proiektuak/` direktorioan lan egiten du eta bertan sortzen den fitxategi berri orok bere baimen osoa (`rwx`) izatea nahi dugu, herentzia bidez.**
 
+d jarri behar da herentzia aktibatzeko
+```
+root@Segurtasuna:/srv/euskaltech# setfacl -m d:unai:rwx /srv/euskaltech/proiektuak/
 
+root@Segurtasuna:/srv/euskaltech# getfacl /srv/euskaltech/proiektuak/
+getfacl: Bide-izen absolutoen '/' aurrizkia kentzen
+# file: srv/euskaltech/proiektuak/
+# owner: root
+# group: root
+user::rwx
+user:unai:rwx
+group::r-x
+mask::rwx
+other::---
+default:user::rwx
+default:user:unai:rwx
+default:group::r-x
+default:mask::rwx
+default:other::---
+```
 
 ---
 # 5. Ariketa
 
 ---
 **Datu-basea oso kritikoa da eta segurtasun politikak zehazten du hemen zerrendatutako erabiltzaile batek ere ezin duela ez idatzi ez exekutatu. Hau, ACL maskara baten bidez inplementatuko da. Dena den, Ederri segurtasun-politika ez diogu aplikatuko eta bertan irakurri eta idazteko baimena emango diogu. Zer gertatzen da?**
+
+
 
 ---
 # 6. Ariketa
