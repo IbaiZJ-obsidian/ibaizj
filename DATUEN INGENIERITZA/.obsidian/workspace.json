@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Linux/SSHFS.md",
+                "file": "0. Linux/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSHFS"
+              "title": "SSH"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "80a88d1652eef68c",
   "lastOpenFiles": [
+    "0. Linux/SSHFS.md",
     "0. Linux/SSH.md",
     "0. Linux/Port Forwarding.md",
     "Ariketak/Ariketa 1.md",
@@ -235,7 +236,6 @@
     "00. Windows/Netstat.md",
     "Ariketak/Ariketa 2.md",
     "0. Linux/Nano.md",
-    "0. Linux/SSHFS.md",
     "0. Linux/Systemctl.md",
     "0. Linux/Sudo.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
