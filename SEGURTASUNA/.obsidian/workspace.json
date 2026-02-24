@@ -11,10 +11,14 @@
             "id": "4da4cf87442d9ff6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fitxategien sarbide-kontrol zerrendak (ACL)"
             }
           }
         ]
@@ -177,8 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7caa0229db38800d",
+  "active": "4da4cf87442d9ff6",
   "lastOpenFiles": [
+    "2. Autentifikazioa/Ariketak",
+    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "2. Autentifikazioa",
     "1. Tresna kriptografikoak",
     "Welcome.md"
