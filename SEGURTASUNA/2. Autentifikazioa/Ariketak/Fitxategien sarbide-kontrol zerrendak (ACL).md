@@ -107,12 +107,27 @@ other::---
 
 **Jonek finantza saileko datuak gainbegiratu behar ditu. Irakurtzeko baimen soila eman nahi diogu, ezin dezan ezer aldatu.**
 
+```
+root@Segurtasuna:/srv/euskaltech# setfacl -m u:jon:r /srv/euskaltech/finantzak/
+root@Segurtasuna:/srv/euskaltech# getfacl finantzak/
+# file: finantzak/
+# owner: root
+# group: root
+user::rwx
+user:jon:r--
+group::r-x
+mask::r-x
+other::---
+```
+
 ---
 # 4. Ariketa
 
 ---
 
 **Unai proiektu kudeatzailea da. `proiektuak/` direktorioan lan egiten du eta bertan sortzen den fitxategi berri orok bere baimen osoa (`rwx`) izatea nahi dugu, herentzia bidez.**
+
+
 
 ---
 # 5. Ariketa
