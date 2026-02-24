@@ -17,15 +17,26 @@ group::r--
 other::---
 ```
 
-Mikeli permisoak eman
+Mikeli permisoak eman directorioa exekutatzeko eta artxiboa irakurtzeko
 
 ```
+setfacl -m u:mikel:x /srv/euskaltech/zuzendaritza
 setfacl -m u:mikel:r /srv/euskaltech/zuzendaritza/estrategia2026.txt
 ```
 
  Fact table ondo dagoela ikusi
 
 ```
+root@Segurtasuna:/srv/euskaltech# getfacl zuzendaritza
+# file: zuzendaritza
+# owner: root
+# group: root
+user::rwx
+user:mikel:--x
+group::r-x
+mask::r-x
+other::---
+
 root@Segurtasuna:/srv/euskaltech/zuzendaritza# getfacl estrategia2026.txt
 # file: estrategia2026.txt
 # owner: root
@@ -57,8 +68,9 @@ usermod -aG ikerketa jon
 cat /etc/group
 
 ikerketa:x:1009:ane,jon
-
 ```
+
+Eman permisoak ikerketa taldeari ikerketa direktorioa exekutatzeko
 
 ---
 # 3. Ariketa
