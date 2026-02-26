@@ -118,6 +118,11 @@ user:jon:r--
 group::r-x
 mask::r-x
 other::---
+default:user::rwx
+default:user:jon:r--
+default:group::r-x
+default:mask::r-x
+default:other::---
 ```
 
 ---
