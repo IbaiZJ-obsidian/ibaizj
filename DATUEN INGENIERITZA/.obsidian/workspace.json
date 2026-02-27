@@ -11,10 +11,14 @@
             "id": "bf5edc6a9b4f9e40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Linux/SSH tunel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "SSH tunel"
             }
           }
         ]
@@ -212,8 +216,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "bf5edc6a9b4f9e40",
   "lastOpenFiles": [
+    "0. Linux/SSH tunel.md",
     "00. Windows/Netstat.md",
     "0. Linux/Port Forwarding.md",
     "0. Linux/SSH.md",
