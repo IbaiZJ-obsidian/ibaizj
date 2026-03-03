@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Malware-a eta Intrusioen Detekzioa/PORTSCAN.md",
+                "file": "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PORTSCAN"
+              "title": "Fitxategien sarbide-kontrol zerrendak (ACL)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "880b9cbe46f60cc8",
@@ -218,8 +219,8 @@
   },
   "active": "80a88d1652eef68c",
   "lastOpenFiles": [
-    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "3. Malware-a eta Intrusioen Detekzioa/PORTSCAN.md",
+    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "3. Malware-a eta Intrusioen Detekzioa",
     "0. Linux/SSH.md",
     "0. Linux/Port Forwarding.md",
