@@ -159,7 +159,9 @@ default:other::---
 ---
 **Datu-basea oso kritikoa da eta segurtasun politikak zehazten du hemen zerrendatutako erabiltzaile batek ere ezin duela ez idatzi ez exekutatu. Hau, ACL maskara baten bidez inplementatuko da. Dena den, Ederri segurtasun-politika ez diogu aplikatuko eta bertan irakurri eta idazteko baimena emango diogu. Zer gertatzen da?**
 
-
+```
+setfacl -R -m mask::r-- datu_basea/
+```
 
 ---
 # 6. Ariketa
