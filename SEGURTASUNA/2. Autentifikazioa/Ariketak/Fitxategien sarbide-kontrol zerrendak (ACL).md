@@ -180,3 +180,20 @@ setfacl -R -m mask::r-- datu_basea/
 
 ---
 **Irati ikertzaileen taldeko kide izan daiteke, baina segurtasun arrazoiengatik, espresuki debekatu behar diogu txostena.txt fitxategira sarbide oro.  Taldeko politikak edo pertsonarenak du lehentasuna?**
+
+
+
+---
+# Emaitzak
+
+---
+
+
+Ondo: 1. Kasua: Mikel
+Ondo: 2. Kasua: Ikerlariak Taldea
+Ondo: 3. Kasua: Jon
+Ondo: 4. Kasua: Unai (Herentzia)
+Ondo: 5. Kasua: Eder (Maskara)
+Ondo: 6. Kasua: Ane
+Ondo: 7. Kasua: Xabier (Default)
+Ondo: 8. Kasua: Irati
