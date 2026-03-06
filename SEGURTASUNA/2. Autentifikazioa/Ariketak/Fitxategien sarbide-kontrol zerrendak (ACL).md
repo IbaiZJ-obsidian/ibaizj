@@ -160,7 +160,11 @@ default:other::---
 **Datu-basea oso kritikoa da eta segurtasun politikak zehazten du hemen zerrendatutako erabiltzaile batek ere ezin duela ez idatzi ez exekutatu. Hau, ACL maskara baten bidez inplementatuko da. Dena den, Ederri segurtasun-politika ez diogu aplikatuko eta bertan irakurri eta idazteko baimena emango diogu. Zer gertatzen da?**
 
 ```
-setfacl -R -m mask::r-- datu_basea/
+setfacl -m mask::r-- ikerketa/datuak.db
+setfacl -m u:eder:rw- ikerketa/datuak.db
+getfacl ikerketa/datuak.db
+
+# file: ikerketa/datuak.db # owner: root # group: root user::rw- user:eder:rw- #effective: r-- ← maskarak mugatzen du! group::r-- mask::r-- other::r--
 ```
 
 ---
@@ -175,13 +179,23 @@ setfacl -R -m mask::r-- datu_basea/
 ---
 **Xabierrek azpiegitura karpetan sortzen diren fitxategi guztien gaineko kontrola duela ziurtatu behar dugu defektuzko ACLak erabiliz.**
 
+```
+setfacl -m u:ane:rw- proiektuak/proiektu_sekretua.txt
+getfacl proiektuak/proiektu_sekretua.txt
+
+# file: proiektuak/proiektu_sekretua.txt # owner: root # group: root user::rw- user:ane:rw- group::r-- mask::rw- other::r--
+```
+
 ---
 # 8. Ariketa
 
 ---
 **Irati ikertzaileen taldeko kide izan daiteke, baina segurtasun arrazoiengatik, espresuki debekatu behar diogu txostena.txt fitxategira sarbide oro.  Taldeko politikak edo pertsonarenak du lehentasuna?**
 
-
+```
+setfacl -m u:irati:--- ikerketa/txostena.txt
+getfacl ikerketa/txostena.txt
+```
 
 ---
 # Emaitzak
