@@ -11,10 +11,14 @@
             "id": "3e7d3d1b377e1545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ariketak/Ariketa 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Ariketa 1"
             }
           }
         ]
@@ -212,15 +216,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "3e7d3d1b377e1545",
   "lastOpenFiles": [
+    "Irudiak/Pasted image 20260306220729.png",
+    "00. Windows/Netstat.md",
     "Ariketak/Ariketa 2.md",
     "Ariketak/Ariketa 3.md",
     "Ariketak/Ariketa 1.md",
     "Sin título.canvas",
     "0. Linux/SSHFS.md",
     "0. Linux/SSH tunel.md",
-    "00. Windows/Netstat.md",
     "0. Linux/Port Forwarding.md",
     "0. Linux/SSH.md",
     "0. Linux/Sudo.md",
