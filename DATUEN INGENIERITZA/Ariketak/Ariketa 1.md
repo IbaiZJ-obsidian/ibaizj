@@ -1,5 +1,5 @@
 
-![[4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf]]
+![[4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf#page=2]]
 
 
 # Debian makinaren sare konfigurazioa
