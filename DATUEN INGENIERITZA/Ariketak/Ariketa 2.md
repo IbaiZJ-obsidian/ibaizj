@@ -1,5 +1,5 @@
 
-![[5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf]]
+![[5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf#page=2]]
 
 # 1. Opentofu
 ## 1.1.  Instalatu OpenTofu
