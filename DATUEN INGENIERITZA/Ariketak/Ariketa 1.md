@@ -2,13 +2,17 @@
 ![[4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf#page=2]]
 
 ![[Pasted image 20260306220729.png]]
-# 
+
+#  Debian - Kudeaketa ordenagailua 
+
+## Instalatu Debian makina birtuala
+
+- Aukeratu lehenengo interfazea
+![[Pasted image 20260212105457.png]]
 
 
 
-
-
-
+# Proxmox
 
 
 
