@@ -34,3 +34,6 @@ provider "google" {
 ![[Pasted image 20260309111253.png]]
 
 ![[Pasted image 20260309111208.png]]
+
+![[Pasted image 20260309112224.png]]
+
