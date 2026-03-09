@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Cloud/GCP Configuration.md",
+                "file": "0. Cloud/GCP Konfigurazioa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCP Configuration"
+              "title": "GCP Konfigurazioa"
             }
           }
         ]
@@ -219,7 +219,7 @@
   "active": "374e21351a04316c",
   "lastOpenFiles": [
     "Ariketak/Ariketa 5.md",
-    "0. Cloud/GCP Configuration.md",
+    "0. Cloud/GCP Konfigurazioa.md",
     "0. Cloud",
     "Ariketak/Ariketa 4.md",
     "Ariketak/Ariketa 3.md",
