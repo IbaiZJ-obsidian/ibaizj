@@ -10,8 +10,13 @@
 - Aukeratu lehenengo interfazea
 ![[Pasted image 20260212105457.png]]
 
+## Sare konfigurazioa
 
-
+2 sare:
+- Kudeaketa/gestioa
+192.168.0.0/23
+- Datuak
+192.168.10.0/23
 # Proxmox
 
 

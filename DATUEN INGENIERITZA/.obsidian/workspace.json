@@ -35,8 +35,7 @@
               "title": "SSH"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +230,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "618da9725d868cab",
+  "active": "3e7d3d1b377e1545",
   "lastOpenFiles": [
+    "0. Linux/SSH.md",
     "Ariketak/Ariketa 1.md",
     "Irudiak/Pasted image 20260212105457.png",
     "Irudiak/Pasted Image 20260205094813_035.png",
@@ -245,7 +245,6 @@
     "0. Linux/SSHFS.md",
     "0. Linux/SSH tunel.md",
     "0. Linux/Port Forwarding.md",
-    "0. Linux/SSH.md",
     "0. Linux/Sudo.md",
     "Pdf/9 Datuen Ingeniaritza - 2.3.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 4.pdf",
     "Pdf/8 Datuen Ingeniaritza - 2.3.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 3.pdf",
