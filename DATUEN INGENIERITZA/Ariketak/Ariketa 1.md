@@ -70,7 +70,7 @@ iface enp0s3 inet6 auto
 
 auto enp0s8
 iface enp0s8 inet static
-        address 192.168.8.2/23
+        address 192.168.0.2/23
 ```
 # Proxmox
 
@@ -83,41 +83,7 @@ iface enp0s8 inet static
 - Datuak
 192.168.10.1/23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Debian makinaren sare konfigurazioa
-
-
-# Proxmox makinaren sare konfigurazioa
-
-## ip a
-
+### ip a
 ```
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
@@ -154,8 +120,7 @@ iface enp0s8 inet static
        valid_lft forever preferred_lft forever
 ```
 
-## /etc/network/interfaces
-
+### /etc/network/interfaces
 ```
 auto lo
 iface lo inet loopback
@@ -187,7 +152,11 @@ iface vmbr1 inet static
 
 source /etc/network/interfaces.d/*
 ```
-# Router makinaren sare konfigurazioa
+
+
+# Router
+
+## Router makinaren sare konfigurazioa
 
 ```
 nano /etc/hostname
@@ -196,8 +165,7 @@ nano /etc/hostname
 ```
 nano /etc/hosts
 ```
-
-## ip a
+### ip a
 
 ```
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
@@ -224,7 +192,7 @@ nano /etc/hosts
        valid_lft forever preferred_lft forever
 ```
 
-## /etc/network/interfaces
+### /etc/network/interfaces
 
 ```
 # This file describes the network interfaces available on your system
@@ -262,3 +230,30 @@ nano /usr/lib/sysctl.d/50-router.conf
 ```
 net.ipv4.ip_forward = 1
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
