@@ -25,10 +25,11 @@ provider "proxmox" {
 }
 
 provider "google" {
-  credentials = file("")
+  credentials = file("~/gcp/ibai-zorrilla-489210-093cdafbf90b.json")
   project = "ibai-zorrilla-489210"
   region = "europe-west1"
 }
+
 ```
 
 ![[Pasted image 20260309111253.png]]
@@ -36,4 +37,16 @@ provider "google" {
 ![[Pasted image 20260309111208.png]]
 
 ![[Pasted image 20260309112224.png]]
+
+
+Instalatu GCP CLI
+```
+curl https://sdk.cloud.google.com | bash
+exec -l $SHELL
+```
+
+login
+```
+gcloud auth application-default login
+```
 
