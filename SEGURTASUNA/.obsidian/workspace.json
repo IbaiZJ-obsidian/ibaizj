@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Autentifikazioa/Ariketak/AppArmor.md",
+                "file": "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppArmor"
+              "title": "Suricata"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "880b9cbe46f60cc8",
@@ -218,9 +219,10 @@
   },
   "active": "baeeb7e7e927130a",
   "lastOpenFiles": [
-    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "2. Autentifikazioa/Ariketak/AppArmor.md",
+    "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
     "3. Malware-a eta Intrusioen Detekzioa/PORTSCAN.md",
+    "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "3. Malware-a eta Intrusioen Detekzioa",
     "0. Linux/SSH.md",
     "0. Linux/Port Forwarding.md",
@@ -258,7 +260,6 @@
     "Pasted image 20260204124511.png",
     "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
     "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
-    "DATUEN INGENIARITZA/Untitled.canvas",
-    "2026-01-12.md"
+    "DATUEN INGENIARITZA/Untitled.canvas"
   ]
 }
