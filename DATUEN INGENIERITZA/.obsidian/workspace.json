@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 284.5
   },
   "right": {
     "id": "880b9cbe46f60cc8",
@@ -216,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "785f8b58ffd3052a",
+  "active": "1dc7496cf644a014",
   "lastOpenFiles": [
     "0. Windows/Netstat.md",
     "0. Linux/SSH tunel.md",
