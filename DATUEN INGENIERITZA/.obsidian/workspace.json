@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aee784a0fbdd9973",
+        "id": "3e84585736fa6820",
         "type": "tabs",
         "children": [
           {
-            "id": "374e21351a04316c",
+            "id": "4e6925622a48ce92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ariketak/Ariketa 1.md",
+                "file": "0. Linux/SSH tunel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ariketa 1"
+              "title": "SSH tunel"
             }
           }
         ]
@@ -216,20 +216,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "374e21351a04316c",
+  "active": "4e6925622a48ce92",
   "lastOpenFiles": [
+    "0. Linux/SSH.md",
+    "0. Linux/Port Forwarding.md",
+    "0. Linux/Nano.md",
+    "0. Cloud/GCP Konfigurazioa.md",
+    "Pasted image 20260309112224.png",
+    "Ariketak/Ariketa 1.md",
     "Ariketak/Ariketa 2.md",
     "Ariketak/Ariketa 4.md",
     "Ariketak/Ariketa 5.md",
-    "0. Cloud/GCP Konfigurazioa.md",
-    "Pasted image 20260309112224.png",
     "Irudiak/Pasted image 20260309111253.png",
     "Irudiak/Pasted image 20260309111208.png",
     "Irudiak/Pasted image 20260309110945.png",
     "0. Cloud",
     "Ariketak/Ariketa 3.md",
-    "Ariketak/Ariketa 1.md",
-    "0. Linux/SSH.md",
     "0. Linux/SSHFS.md",
     "Irudiak/Pasted image 20260212105457.png",
     "Irudiak/Pasted Image 20260205094813_035.png",
@@ -238,7 +240,6 @@
     "0. Windows/Netstat.md",
     "Sin título.canvas",
     "0. Linux/SSH tunel.md",
-    "0. Linux/Port Forwarding.md",
     "0. Linux/Sudo.md",
     "Pdf/9 Datuen Ingeniaritza - 2.3.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 4.pdf",
     "Pdf/8 Datuen Ingeniaritza - 2.3.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 3.pdf",
@@ -249,7 +250,6 @@
     "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
     "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak 1.pdf",
     "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak 1.pdf",
-    "0. Linux/Nano.md",
     "0. Linux/Systemctl.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
