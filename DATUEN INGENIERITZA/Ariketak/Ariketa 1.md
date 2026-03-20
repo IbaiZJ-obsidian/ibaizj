@@ -194,7 +194,7 @@ nano /etc/hosts
 
 ### /etc/network/interfaces
 
-```
+```bash
 # This file describes the network interfaces available on your system
 # and how to activate them. For more information, see interfaces(5).
 
