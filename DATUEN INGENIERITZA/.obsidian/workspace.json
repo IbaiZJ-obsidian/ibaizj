@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13940e42fcca0a3a",
+        "id": "292f649740c2958c",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc7496cf644a014",
+            "id": "f8aab31b66ca9b85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ariketak/Ariketa 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ariketa 2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -216,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1dc7496cf644a014",
+  "active": "785f8b58ffd3052a",
   "lastOpenFiles": [
+    "0. Linux/SSHFS.md",
+    "Ariketak/Ariketa 2.md",
     "0. Linux/SSH.md",
     "Ariketak/Ariketa 1.md",
     "0. Windows/Netstat.md",
@@ -226,7 +224,6 @@
     "0. Linux/Nano.md",
     "0. Cloud/GCP Konfigurazioa.md",
     "Pasted image 20260309112224.png",
-    "Ariketak/Ariketa 2.md",
     "Ariketak/Ariketa 4.md",
     "Ariketak/Ariketa 5.md",
     "Irudiak/Pasted image 20260309111253.png",
@@ -234,7 +231,6 @@
     "Irudiak/Pasted image 20260309110945.png",
     "0. Cloud",
     "Ariketak/Ariketa 3.md",
-    "0. Linux/SSHFS.md",
     "Irudiak/Pasted image 20260212105457.png",
     "Irudiak/Pasted Image 20260205094813_035.png",
     "Irudiak/Pasted Image 20260205094733_226.png",
