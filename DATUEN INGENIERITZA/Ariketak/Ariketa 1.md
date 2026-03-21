@@ -76,6 +76,8 @@ iface enp0s8 inet static
 
 ## Instalatu makina birtuala
 
+![[Pasted image 20260321143058.png]]
+Desabilitatu proxmox repositorioak
 ## Sare konfigurazioa
 2 sare:
 - Kudeaketa/gestioa
