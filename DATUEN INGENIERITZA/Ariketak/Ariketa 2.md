@@ -29,8 +29,61 @@ chmod +x install-opentofu.sh
 rm -f install-opentofu.sh
 ```
 
+Montatu debian-a windows-ean
+```
+net use Y: \\sshfs.r\ibai@localhost!2215\home\ibai /user:ibai ibai
+```
 
 ## 1.2. Proxmox kudeatu dezan konfiguratu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Dokumentazio web-orria
 ```
