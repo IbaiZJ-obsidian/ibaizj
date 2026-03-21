@@ -121,7 +121,7 @@ iface enp0s8 inet static
 ```
 
 ### /etc/network/interfaces
-```
+```bash
 auto lo
 iface lo inet loopback
 
@@ -158,11 +158,11 @@ source /etc/network/interfaces.d/*
 
 ## Router makinaren sare konfigurazioa
 
-```
+```bash
 nano /etc/hostname
 ```
 
-```
+```bash
 nano /etc/hosts
 ```
 ### ip a
