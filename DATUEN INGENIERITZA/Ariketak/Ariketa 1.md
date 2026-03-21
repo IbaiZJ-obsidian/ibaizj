@@ -94,13 +94,13 @@ Desabilitatu proxmox repositorioak
     inet6 ::1/128 scope host noprefixroute
        valid_lft forever preferred_lft forever
 2: nic0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
-    link/ether 08:00:27:af:50:84 brd ff:ff:ff:ff:ff:ff
-    altname enx080027af5084
+    link/ether 08:00:27:51:bd:2d brd ff:ff:ff:ff:ff:ff
+    altname enx08002751bd2d
     inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic nic0
-       valid_lft 85298sec preferred_lft 85298sec
-    inet6 fd17:625c:f037:2:a00:27ff:feaf:5084/64 scope global dynamic mngtmpaddr proto kernel_ra
-       valid_lft 86202sec preferred_lft 14202sec
-    inet6 fe80::a00:27ff:feaf:5084/64 scope link proto kernel_ll
+       valid_lft 86311sec preferred_lft 86311sec
+    inet6 fd17:625c:f037:2:a00:27ff:fe51:bd2d/64 scope global dynamic mngtmpaddr proto kernel_ra
+       valid_lft 86377sec preferred_lft 14377sec
+    inet6 fe80::a00:27ff:fe51:bd2d/64 scope link proto kernel_ll
        valid_lft forever preferred_lft forever
 3: nic1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel master vmbr0 state UP group default qlen 1000
     link/ether 00:01:02:03:04:06 brd ff:ff:ff:ff:ff:ff
@@ -108,15 +108,15 @@ Desabilitatu proxmox repositorioak
 4: nic2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel master vmbr1 state UP group default qlen 1000
     link/ether 00:01:02:03:04:07 brd ff:ff:ff:ff:ff:ff
     altname enx000102030407
-5: vmbr0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+7: vmbr0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
     link/ether 00:01:02:03:04:06 brd ff:ff:ff:ff:ff:ff
-    inet 192.168.8.1/23 scope global vmbr0
+    inet 192.168.0.1/23 scope global vmbr0
        valid_lft forever preferred_lft forever
     inet6 fe80::201:2ff:fe03:406/64 scope link proto kernel_ll
        valid_lft forever preferred_lft forever
-6: vmbr1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+8: vmbr1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
     link/ether 00:01:02:03:04:07 brd ff:ff:ff:ff:ff:ff
-    inet 192.168.12.1/23 scope global vmbr1
+    inet 192.168.10.1/23 scope global vmbr1
        valid_lft forever preferred_lft forever
     inet6 fe80::201:2ff:fe03:407/64 scope link proto kernel_ll
        valid_lft forever preferred_lft forever
@@ -135,7 +135,7 @@ iface nic1 inet manual
 
 auto vmbr0
 iface vmbr0 inet static
-        address 192.168.8.1/23
+        address 192.168.0.1/23
         bridge-ports nic1
         bridge-stp off
         bridge-fd 0
@@ -145,8 +145,8 @@ iface nic2 inet manual
 
 auto vmbr1
 iface vmbr1 inet static
-        address 192.168.12.1/23
-        gateway 192.168.13.254
+        address 192.168.10.1/23
+        gateway 192.168.11.254
         bridge-ports nic2
         bridge-stp off
         bridge-fd 0
@@ -177,18 +177,18 @@ nano /etc/hosts
     inet6 ::1/128 scope host noprefixroute
        valid_lft forever preferred_lft forever
 2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
-    link/ether 08:00:27:a1:86:da brd ff:ff:ff:ff:ff:ff
-    altname enx080027a186da
+    link/ether 08:00:27:1e:18:47 brd ff:ff:ff:ff:ff:ff
+    altname enx0800271e1847
     inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute enp0s3
-       valid_lft 86012sec preferred_lft 75212sec
-    inet6 fd17:625c:f037:2:5684:5e8:a024:cefc/64 scope global dynamic mngtmpaddr noprefixroute
-       valid_lft 86248sec preferred_lft 14248sec
-    inet6 fe80::3f03:7736:4130:5bb6/64 scope link
+       valid_lft 86377sec preferred_lft 75577sec
+    inet6 fd17:625c:f037:2:a240:5e6:1a50:684c/64 scope global dynamic mngtmpaddr noprefixroute
+       valid_lft 86374sec preferred_lft 14374sec
+    inet6 fe80::64be:28c2:c14b:dcff/64 scope link
        valid_lft forever preferred_lft forever
 3: enp0s8: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 10:01:02:03:04:05 brd ff:ff:ff:ff:ff:ff
     altname enx100102030405
-    inet 192.168.13.254/23 brd 192.168.13.255 scope global enp0s8
+    inet 192.168.11.254/23 brd 192.168.11.255 scope global enp0s8
        valid_lft forever preferred_lft forever
     inet6 fe80::1201:2ff:fe03:405/64 scope link proto kernel_ll
        valid_lft forever preferred_lft forever
@@ -221,7 +221,7 @@ iface enp0s3 inet dhcp
 
 allow-hotplug enp0s8
 iface enp0s8 inet static
-        address 192.168.13.254/23
+        address 192.168.11.254/23
 ```
 
 
