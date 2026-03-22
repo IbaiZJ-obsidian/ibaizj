@@ -31,6 +31,7 @@ rm -f install-opentofu.sh
 
 Deskargatu debian 13 **templatea** local(proxmox)
 ![[Pasted image 20260321224444.png]]
+
 Montatu debian-a windows-ean
 ```
 net use Y: \\sshfs.r\ibai@localhost!2215\home\ibai /user:ibai ibai
@@ -39,8 +40,16 @@ net use Y: \\sshfs.r\ibai@localhost!2215\home\ibai /user:ibai ibai
 ## 1.2. Proxmox kudeatu dezan konfiguratu
 
 
+# 2. Ansible instalatu
 
+```
+apt install ansible -y
+```
 
+```
+ansible --version 
+ansible-playbook --version
+```
 
 
 
@@ -226,12 +235,3 @@ resource "proxmox_lxc" "mi_lxc" {
 ls -lh /var/lib/vz/template/cache/
 ```
 
-
-```
-apt install ansible -y
-```
-
-```
-ansible --version 
-ansible-playbook --version
-```
