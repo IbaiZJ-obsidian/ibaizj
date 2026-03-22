@@ -29,6 +29,8 @@ chmod +x install-opentofu.sh
 rm -f install-opentofu.sh
 ```
 
+Deskargatu debian 13 **templatea** local(proxmox)
+![[Pasted image 20260321224444.png]]
 Montatu debian-a windows-ean
 ```
 net use Y: \\sshfs.r\ibai@localhost!2215\home\ibai /user:ibai ibai
