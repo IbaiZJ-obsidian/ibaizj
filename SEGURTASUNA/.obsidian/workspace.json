@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "880b9cbe46f60cc8",
@@ -219,6 +218,9 @@
   },
   "active": "36ee0e54954ecf2b",
   "lastOpenFiles": [
+    "4. Segurtasun Perimetrala/Pasted image 20260326091550.png",
+    "4. Segurtasun Perimetrala/Pasted image 20260326091334.png",
+    "4. Segurtasun Perimetrala/Pasted image 20260326091301.png",
     "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
     "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
     "4. Segurtasun Perimetrala",
@@ -259,7 +261,6 @@
     "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
     "Untitled.canvas",
     "Pasted image 20260204124511.png",
-    "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
     "DATUEN INGENIARITZA/Untitled.canvas"
   ]
 }
