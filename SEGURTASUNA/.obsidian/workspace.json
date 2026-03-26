@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30d5bf39d60aead9",
+        "id": "f81d7a05220a68c1",
         "type": "tabs",
         "children": [
           {
-            "id": "baeeb7e7e927130a",
+            "id": "36ee0e54954ecf2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
+                "file": "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suricata"
+              "title": "1. Praktika - Uncomplicated Firewall (UFW)"
             }
           }
         ]
@@ -216,10 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baeeb7e7e927130a",
+  "active": "36ee0e54954ecf2b",
   "lastOpenFiles": [
-    "2. Autentifikazioa/Ariketak/AppArmor.md",
     "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
+    "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
+    "4. Segurtasun Perimetrala",
+    "2. Autentifikazioa/Ariketak/AppArmor.md",
     "3. Malware-a eta Intrusioen Detekzioa/PORTSCAN.md",
     "2. Autentifikazioa/Ariketak/Fitxategien sarbide-kontrol zerrendak (ACL).md",
     "3. Malware-a eta Intrusioen Detekzioa",
@@ -234,7 +236,6 @@
     "Pdf/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
     "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
     "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak 1.pdf",
-    "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak 1.pdf",
     "Ariketak/Ariketa 3.md",
     "00. Windows/Netstat.md",
     "Ariketak/Ariketa 2.md",
@@ -258,7 +259,6 @@
     "Untitled.canvas",
     "Pasted image 20260204124511.png",
     "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
-    "DATUEN INGENIARITZA/Drawing 2026-02-04 12.18.02.excalidraw.md",
     "DATUEN INGENIARITZA/Untitled.canvas"
   ]
 }
