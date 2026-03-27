@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
+                "file": "4. Segurtasun Perimetrala/2. Praktika - Sareko suebakiak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Praktika - Uncomplicated Firewall (UFW)"
+              "title": "2. Praktika - Sareko suebakiak"
             }
           }
         ]
@@ -218,11 +218,12 @@
   },
   "active": "36ee0e54954ecf2b",
   "lastOpenFiles": [
+    "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
+    "4. Segurtasun Perimetrala/2. Praktika - Sareko suebakiak.md",
     "4. Segurtasun Perimetrala/Pasted image 20260326091550.png",
     "4. Segurtasun Perimetrala/Pasted image 20260326091334.png",
     "4. Segurtasun Perimetrala/Pasted image 20260326091301.png",
     "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
-    "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
     "4. Segurtasun Perimetrala",
     "2. Autentifikazioa/Ariketak/AppArmor.md",
     "3. Malware-a eta Intrusioen Detekzioa/PORTSCAN.md",
