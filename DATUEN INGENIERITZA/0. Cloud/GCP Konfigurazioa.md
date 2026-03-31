@@ -12,7 +12,7 @@ terraform {
     }
     google = {
       source = "opentofu/google"
-      version = "~> 7.22.0"
+      version = "7.25.0"
     }
   }
 }
@@ -25,9 +25,9 @@ provider "proxmox" {
 }
 
 provider "google" {
-  credentials = file("~/gcp/ibai-zorrilla-489210-093cdafbf90b.json")
   project = "ibai-zorrilla-489210"
-  region = "europe-west1"
+  region = "europe-southwest1"
+  credentials = file("/home/ibai/gcp/ibai-zorrilla-489210-093cdafbf90b.json")
 }
 
 ```
