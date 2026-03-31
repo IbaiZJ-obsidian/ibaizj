@@ -39,14 +39,3 @@ provider "google" {
 ![[Pasted image 20260309112224.png]]
 
 
-Instalatu GCP CLI
-```
-curl https://sdk.cloud.google.com | bash
-exec -l $SHELL
-```
-
-login
-```
-gcloud auth application-default login
-```
-
