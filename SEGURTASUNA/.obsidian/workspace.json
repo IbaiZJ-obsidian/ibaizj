@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f81d7a05220a68c1",
+        "id": "0af87fde62ce7fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "36ee0e54954ecf2b",
+            "id": "d27ca7f5fd6c4c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Segurtasun Perimetrala/2. Praktika - Sareko suebakiak.md",
+                "file": "6. Segurtasun Ikuskaritza/Metasploitable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Praktika - Sareko suebakiak"
+              "title": "Metasploitable"
             }
           }
         ]
@@ -216,10 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36ee0e54954ecf2b",
+  "active": "d27ca7f5fd6c4c50",
   "lastOpenFiles": [
-    "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
+    "6. Segurtasun Ikuskaritza/Metasploitable.md",
+    "6. Segurtasun Ikuskaritza",
     "4. Segurtasun Perimetrala/2. Praktika - Sareko suebakiak.md",
+    "4. Segurtasun Perimetrala/1. Praktika - Uncomplicated Firewall (UFW).md",
     "4. Segurtasun Perimetrala/Pasted image 20260326091550.png",
     "4. Segurtasun Perimetrala/Pasted image 20260326091334.png",
     "4. Segurtasun Perimetrala/Pasted image 20260326091301.png",
@@ -239,7 +241,6 @@
     "Pdf/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
     "Pdf/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
     "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
-    "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak 1.pdf",
     "Ariketak/Ariketa 3.md",
     "00. Windows/Netstat.md",
     "Ariketak/Ariketa 2.md",
@@ -259,7 +260,6 @@
     "Diagramak/sistemaDiagrama.excalidraw.md",
     "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
     "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
-    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
     "Untitled.canvas",
     "Pasted image 20260204124511.png",
     "DATUEN INGENIARITZA/Untitled.canvas"
