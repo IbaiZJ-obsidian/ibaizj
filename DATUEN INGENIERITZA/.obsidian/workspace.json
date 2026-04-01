@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d1f2fed342557e5e",
+    "id": "87c3ef8f7d995321",
     "type": "split",
     "children": [
       {
-        "id": "292f649740c2958c",
+        "id": "202a3126a3e171e0",
         "type": "tabs",
         "children": [
           {
-            "id": "f8aab31b66ca9b85",
+            "id": "6b08ed43640fd89d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Cloud/GCP Konfigurazioa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GCP Konfigurazioa"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d265bf88369adbbf",
+    "id": "2dbe0ac1de39d270",
     "type": "split",
     "children": [
       {
-        "id": "9fc9c209be8e76cf",
+        "id": "95041d1453b798ee",
         "type": "tabs",
         "children": [
           {
-            "id": "785f8b58ffd3052a",
+            "id": "9c6d1cab8e5896ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "e10c8546d7cec1a1",
+            "id": "f346d64050b05e24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "4901c3a3c03e602d",
+            "id": "789802197a8571a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 300
   },
   "right": {
-    "id": "880b9cbe46f60cc8",
+    "id": "5f64faaf31e358be",
     "type": "split",
     "children": [
       {
-        "id": "6694274eb73c9593",
+        "id": "6425776a74c676db",
         "type": "tabs",
         "children": [
           {
-            "id": "53e3a69d90b2def3",
+            "id": "6db0d477d5695ee2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "e792f235a1bad006",
+            "id": "af9d7a6107ffb584",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,11 +112,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "49f7cb179119fcbd",
+            "id": "66c56e70bd7eaf30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,11 +127,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "3d1d5e6d8b8a3cc0",
+            "id": "6a195c665ed45d04",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,36 +141,25 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas las propiedades"
             }
           },
           {
-            "id": "56c6e45c0d8b6438",
+            "id": "9e664e449df5f806",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sistemaDiagrama.excalidraw"
+              "title": "Esquema"
             }
           },
           {
-            "id": "9283e9d4d6a451cc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "07fad6a7ba0c9cbe",
+            "id": "ffa171c9e8392479",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -182,23 +167,12 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "7f42e8d19152d5c2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -216,56 +190,6 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8aab31b66ca9b85",
-  "lastOpenFiles": [
-    "Ariketak/Ariketa 6 WireGuard.md",
-    "0. Linux/SSHFS.md",
-    "Ariketak/Ariketa 5.md",
-    "Ariketak/Ariketa 2 Opentofu + Ansible.md",
-    "Ariketak/Ariketa 3.md",
-    "Ariketak/Ariketa 1 Sistema Montatu.md",
-    "Irudiak/Pasted image 20260321224444.png",
-    "Irudiak/Pasted image 20260321143058.png",
-    "0. Linux/SSH.md",
-    "0. Windows/Netstat.md",
-    "0. Linux/SSH tunel.md",
-    "0. Linux/Port Forwarding.md",
-    "0. Linux/Nano.md",
-    "0. Cloud/GCP Konfigurazioa.md",
-    "Irudiak/Pasted image 20260309112224.png",
-    "Ariketak/Ariketa 4.md",
-    "Irudiak/Pasted image 20260309111253.png",
-    "Irudiak/Pasted image 20260309111208.png",
-    "Irudiak/Pasted image 20260309110945.png",
-    "0. Cloud",
-    "Irudiak/Pasted image 20260212105457.png",
-    "Irudiak/Pasted Image 20260205094813_035.png",
-    "Irudiak/Pasted Image 20260205094733_226.png",
-    "Irudiak/Pasted image 20260306220729.png",
-    "Sin título.canvas",
-    "0. Linux/Sudo.md",
-    "Pdf/9 Datuen Ingeniaritza - 2.3.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 4.pdf",
-    "Pdf/8 Datuen Ingeniaritza - 2.3.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Ariketa 3.pdf",
-    "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak.pdf",
-    "Pdf/6 Datuen Ingeniaritza - 2.2.4 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Definizioak.pdf",
-    "Pdf/5 Datuen Ingeniaritza - 2.2.3 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 2.pdf",
-    "Pdf/4 Datuen Ingeniaritza - 2.2.2 Datu masiboentzako azpiegitura oinarriak - Oinarrizko kontzeptuak - Ariketa 1.pdf",
-    "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak.pdf",
-    "Pdf/2 Datuen Ingeniaritza - 2.1 Datu masiboentzako azpiegitura oinarriak - Google Cloud Platform - Kreditoak 1.pdf",
-    "Pdf/7 Datuen Ingeniaritza - 2.3.1 Datu masiboentzako azpiegitura oinarriak - Oinarrizko teknologiak - Kontenedoreak 1.pdf",
-    "0. Linux/Systemctl.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/OpenTofu.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Proxmox.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/Debian.md",
-    "Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
-    "SEGURTASUNA/Untitled.md",
-    "debianMakinaSortu.ps1.md",
-    "Diagramak/sistemaDiagrama.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-13 09.20.13.excalidraw.md",
-    "DATUEN INGENIARITZA/1. Istalakuntza/HyperV.md",
-    "DATUEN INGENIARITZA/Diagramak/sistemaDiagrama.excalidraw.restored.md",
-    "Untitled.canvas",
-    "DATUEN INGENIARITZA/Istalakuntza/Drawing 2026-02-04 12.26.12.excalidraw.md",
-    "DATUEN INGENIARITZA/Untitled.canvas"
-  ]
+  "active": "6b08ed43640fd89d",
+  "lastOpenFiles": []
 }
