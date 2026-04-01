@@ -11,10 +11,14 @@
             "id": "6b08ed43640fd89d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ariketak/Ariketa 6 WireGuard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Ariketa 6 WireGuard"
             }
           }
         ]
