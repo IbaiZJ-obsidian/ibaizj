@@ -11,10 +11,14 @@
             "id": "154548cb5e7db1cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Linux/SSH.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "SSH"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a195c665ed45d04",
+  "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
     "Ariketak/Ariketa 5.md",
     "Ariketak/Ariketa 6 WireGuard.md"
