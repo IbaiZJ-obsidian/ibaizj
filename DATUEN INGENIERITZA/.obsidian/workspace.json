@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "110540c6be3f44b2",
+        "id": "3e5c551822188791",
         "type": "tabs",
         "children": [
           {
-            "id": "280c4603920b7682",
+            "id": "154548cb5e7db1cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,12 +168,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +190,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "280c4603920b7682",
+  "active": "6a195c665ed45d04",
   "lastOpenFiles": [
+    "Ariketak/Ariketa 5.md",
     "Ariketak/Ariketa 6 WireGuard.md"
   ]
 }
