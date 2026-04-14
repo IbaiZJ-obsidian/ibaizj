@@ -35,8 +35,7 @@
               "title": "SSH"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e20e6266c65b362",
+  "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
-    "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/SSH.md",
+    "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/SSH tunel.md",
     "Ariketak/Ariketa 5.md",
     "Ariketak/Ariketa 6 WireGuard.md"
