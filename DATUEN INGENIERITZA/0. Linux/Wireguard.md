@@ -30,7 +30,7 @@ auto enp0s8
 iface enp0s8 inet static
   address 192.168.100.10
   netmask 255.255.255.0
-  gateway 192.168.100.1
+  #gateway 192.168.100.1
 ```
 
 ## Router
@@ -54,16 +54,16 @@ iface enp0s3 inet6 auto
 # -> router
 auto enp0s8
 iface enp0s8 inet static
-  address 192.168.100.10
+  address 192.168.100.1
   netmask 255.255.255.0
-  gateway 192.168.100.1
+  #gateway 192.168.100.1
 
 
 auto enp0s9
 iface enp0s9 inet static
-  address 192.168.100.10
+  address 192.168.100.1
   netmask 255.255.255.0
-  gateway 192.168.100.1
+  #gateway 192.168.100.1
 ```
 
 ```
@@ -129,5 +129,11 @@ AllowedIPs = 10.0.0.1/32
 PersistentKeepalive = 25
 ```
 
+## VM1 eta VM2 
+```
+sudo chmod 600 /etc/wireguard/privatekey /etc/wireguard/wg0.conf
+sudo wg-quick up wg0
+```
+sudo wg show
 
 ## IP tables router
