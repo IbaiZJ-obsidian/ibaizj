@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "Wireguard"
             }
+          },
+          {
+            "id": "95e943f8d1d62974",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagramak/Wireguard.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Wireguard.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -212,15 +224,16 @@
   },
   "active": "7e20e6266c65b362",
   "lastOpenFiles": [
-    "0. Linux/SSH.md",
+    "Diagramak/Wireguard.excalidraw.md",
+    "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/Wireguard.md",
+    "0. Linux/SSH.md",
     "0. Linux/Sin título.md",
     "Ariketak/Ariketa 2 Opentofu + Ansible.md",
     "Ariketak/Ariketa 3.md",
     "Ariketak/Ariketa 4.md",
     "Ariketak/Ariketa 5.md",
     "Ariketak/Ariketa 6 WireGuard.md",
-    "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/SSH tunel.md"
   ]
 }
