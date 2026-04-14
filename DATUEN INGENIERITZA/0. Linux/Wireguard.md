@@ -137,3 +137,45 @@ sudo wg-quick up wg0
 sudo wg show
 
 ## IP tables router
+```
+sudo apt install -y iptables
+sudo apt install -y iptables iptables-persistent
+```
+
+```
+# 1. Activar forwarding (por si acaso)
+sudo sysctl -w net.ipv4.ip_forward=1
+
+# 2. Limpiar reglas previas
+sudo iptables -F
+sudo iptables -t nat -F
+
+# 3. FORWARD — permitir que los paquetes atraviesen el router
+sudo iptables -A FORWARD -i enp0s9 -o enp0s8 -j ACCEPT
+sudo iptables -A FORWARD -i enp0s8 -o enp0s9 -j ACCEPT
+
+# 4. DNAT — redirigir :51820 entrante por enp0s9 hacia VM1
+sudo iptables -t nat -A PREROUTING \
+  -i enp0s9 -p udp --dport 51820 \
+  -j DNAT --to-destination 192.168.100.10:51820
+
+# 5. MASQUERADE — enmascarar origen para que VM1 no vea la IP duplicada
+sudo iptables -t nat -A POSTROUTING \
+  -o enp0s8 \
+  -j MASQUERADE
+```
+
+
+```
+ibai@vbox:~$ sudo iptables -t nat -D POSTROUTING -o enp0s8 -j MASQUERADE
+ibai@vbox:~$ sudo iptables -t nat -A POSTROUTING -o enp0s8 -p udp --dport 51820 \
+  -j SNAT --to-source 192.168.100.1
+```
+
+```
+# Ver reglas NAT
+sudo iptables -t nat -L -n -v --line-numbers
+
+# Ver reglas FORWARD
+sudo iptables -L FORWARD -n -v
+```
