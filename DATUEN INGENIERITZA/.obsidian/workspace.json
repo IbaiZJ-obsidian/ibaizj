@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ariketak/Ariketa 1 Sistema Montatu.md",
+                "file": "0. Linux/SSH tunel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ariketa 1 Sistema Montatu"
+              "title": "SSH tunel"
             }
           }
         ],
@@ -212,6 +212,9 @@
   },
   "active": "8684a453d2c5895d",
   "lastOpenFiles": [
+    "Ariketak/Ariketa 1 Sistema Montatu.md",
+    "Ariketak/Ariketa 2 Opentofu + Ansible.md",
+    "Ariketak/Ariketa 3.md",
     "0. Linux/Wireguard.md",
     "Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
     "0. Linux/SSH.md",
@@ -219,12 +222,9 @@
     "0. Linux/Systemctl.md",
     "0. Linux/Nano.md",
     "0. Linux/Port Forwarding.md",
-    "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/Sin título.md",
     "0. Linux/ip route.md",
     "Diagramak/Wireguard.excalidraw.md",
-    "Ariketak/Ariketa 2 Opentofu + Ansible.md",
-    "Ariketak/Ariketa 3.md",
     "Ariketak/Ariketa 4.md",
     "Ariketak/Ariketa 5.md",
     "Ariketak/Ariketa 6 WireGuard.md",
