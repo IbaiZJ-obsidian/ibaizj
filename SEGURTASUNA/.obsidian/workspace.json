@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d27ca7f5fd6c4c50",
+  "active": "e10c8546d7cec1a1",
   "lastOpenFiles": [
     "6. Segurtasun Ikuskaritza/Metasploitable.md",
     "6. Segurtasun Ikuskaritza",
