@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Ariketa 1 Sistema Montatu"
             }
-          },
-          {
-            "id": "7e20e6266c65b362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Linux/Wireguard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wireguard"
-            }
-          },
-          {
-            "id": "8c809f84af4114d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Linux/SSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH"
-            }
-          },
-          {
-            "id": "95e943f8d1d62974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Linux/ip route.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ip route"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,12 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e20e6266c65b362",
+  "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
     "0. Linux/ip route.md",
-    "Diagramak/Wireguard.excalidraw.md",
-    "0. Linux/Wireguard.md",
     "0. Linux/SSH.md",
+    "0. Linux/Wireguard.md",
+    "Diagramak/Wireguard.excalidraw.md",
     "Ariketak/Ariketa 1 Sistema Montatu.md",
     "0. Linux/Sin título.md",
     "Ariketak/Ariketa 2 Opentofu + Ansible.md",
