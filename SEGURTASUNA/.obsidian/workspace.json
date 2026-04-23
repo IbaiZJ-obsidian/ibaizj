@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d27ca7f5fd6c4c50",
+  "active": "785f8b58ffd3052a",
   "lastOpenFiles": [
     "3. Malware-a eta Intrusioen Detekzioa/Suricata.md",
     "4. Segurtasun Perimetrala/2. Praktika - Sareko suebakiak.md",
