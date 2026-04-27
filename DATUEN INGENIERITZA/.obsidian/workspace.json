@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Linux/SSH tunel.md",
+                "file": "0. Linux/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH tunel"
+              "title": "SSH"
             }
           }
         ],
@@ -210,10 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c6d1cab8e5896ad",
+  "active": "8684a453d2c5895d",
   "lastOpenFiles": [
-    "0. Linux/SSH.md",
     "0. Linux/SSH tunel.md",
+    "0. Linux/SSH.md",
     "Ariketak/Ariketa 1 Sistema Montatu.md",
     "Ariketak/Ariketa 2 Opentofu + Ansible.md",
     "Ariketak/Ariketa 3.md",
