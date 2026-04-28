@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Linux/Wireguard.md",
+                "file": "0. Linux/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireguard"
+              "title": "SSH"
             }
           }
         ]
@@ -197,14 +197,14 @@
   },
   "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
-    "0. Linux/SSHFS.md",
     "0. Linux/SSH tunel.md",
+    "0. Linux/Wireguard.md",
+    "0. Linux/SSHFS.md",
     "0. Linux/SSH.md",
     "0. Cloud/GCP Konfigurazioa.md",
     "Ariketak/Ariketa 1 Sistema Montatu.md",
     "Ariketak/Ariketa 2 Opentofu + Ansible.md",
     "Ariketak/Ariketa 3.md",
-    "0. Linux/Wireguard.md",
     "Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
     "0. Linux/Systemctl.md",
     "0. Linux/Nano.md",
