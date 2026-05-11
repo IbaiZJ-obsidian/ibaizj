@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Linux/SSH.md",
+                "file": "0. Linux/SSH tunel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "SSH tunel"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scp",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +197,10 @@
   },
   "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
+    "0. Linux/SSH.md",
     "Ariketak/Ariketa 1 Sistema Montatu.md",
     "Ariketak/Ariketa 2 Opentofu + Ansible.md",
     "0. Linux/Port Forwarding.md",
-    "0. Linux/SSH.md",
     "0. Linux/SSH tunel.md",
     "0. Linux/Wireguard.md",
     "Ariketak/Ariketa 6 WireGuard.md",
