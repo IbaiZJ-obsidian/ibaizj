@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Cloud/GCP Konfigurazioa.md",
+                "file": "0. Linux/SSH tunel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCP Konfigurazioa"
+              "title": "SSH tunel"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "154548cb5e7db1cc",
   "lastOpenFiles": [
+    "0. Cloud/GCP Konfigurazioa.md",
     "0. Linux/SSH.md",
     "0. Linux/SSH tunel.md",
     "Ariketak/Ariketa 1 Sistema Montatu.md",
@@ -203,7 +204,6 @@
     "0. Linux/Port Forwarding.md",
     "0. Linux/Wireguard.md",
     "Ariketak/Ariketa 6 WireGuard.md",
-    "0. Cloud/GCP Konfigurazioa.md",
     "0. Linux/SSHFS.md",
     "Ariketak/Ariketa 3.md",
     "Ortiz/Creación y gestión de infraestructura en Proxmox usando OpenTofu y Ansible.md",
